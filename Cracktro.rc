@@ -1,0 +1,4 @@
+1500 RCDATA DISCARDABLE  "gfx\\frame.png"
+1511 RCDATA DISCARDABLE  "gfx\\exit.png"
+1597 CURSOR DISCARDABLE "gfx\\cursor.ani"
+1598 ICON DISCARDABLE  "gfx\\icon.ico"
